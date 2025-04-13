@@ -1,0 +1,64 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Node & front-end dependencies (in case you use any)
+node_modules/
+bower_components/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Flask DB files
+*.db
+*.sqlite3
+
+# Test cache
+/testing/__pycache__/
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Archive files
+*.tar.gz
+*.zip
+
+# Ignore models and heavy files
+/model/
+
+# Ignore audio files (optional)
+*.wav
+*.mp3
+*.flac
+
+# Ignore recordings (optional)
+recordings/
+
+# VS Code & other tools may generate additional clutter
+*.coverage
+*.mypy_cache/
+*.pytest_cache/
