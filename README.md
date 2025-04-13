@@ -19,7 +19,7 @@ To get started with Fluent Edge, follow these steps:
 
     ```bash
     git clone <repository_url>
-    cd Fluent_Edge
+    cd FLUENT-EDGE
     ```
 
 2. **Set up a virtual environment:**
@@ -69,7 +69,7 @@ To get started with Fluent Edge, follow these steps:
 Here is a breakdown of the directory structure:
 
 ```
-Fluent_Edge/
+FLUENT-EDGE/
 │
 ├── __pycache__/                      # Compiled Python files (auto-generated)
 │
@@ -152,7 +152,7 @@ The app calculates the accuracy of the transcription by comparing the detected g
 1. Navigate to the project directory:
 
     ```bash
-    cd Fluent_Edge
+    cd FLUENT-EDGE
     ```
 
 2. Start the Flask application:
