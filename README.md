@@ -33,7 +33,7 @@ To get started with Fluent Edge, follow these steps:
     - On Windows:
 
     ```bash
-    venv\Scripts\activate
+    venv\Scriptsctivate
     ```
 
     - On macOS/Linux:
@@ -50,11 +50,16 @@ To get started with Fluent Edge, follow these steps:
 
 5. **Download the required Vosk models for transcription:**
 
-    - Vosk Model (US English)
-    - Vosk Model (Indian English)
+    You need to download the following Vosk models for transcription:
+
+    - [Vosk Model (US English)](https://alphacephei.com/vosk/models)
+    - [Vosk Model (Indian English)](https://alphacephei.com/vosk/models)
 
 6. **Place these models in the following directories:**
 
+    - Download and extract the models from the above links.
+    - Place the extracted folders in the respective directories:
+    
     ```
     model/US English/
     model/Indian English/
@@ -78,8 +83,8 @@ Fluent_Edge/
 │   └── startup_checker.py            # Verifies dependencies during startup
 │
 ├── model/                            # Vosk speech recognition models
-│   ├── Indian English/
-│   ├── US English/
+│   ├── Indian English/               # Downloaded model for Indian English
+│   ├── US English/                   # Downloaded model for US English
 │   └── model_description.txt         # Description of the models
 │
 ├── static/                           # Static files for frontend (JS, CSS)
