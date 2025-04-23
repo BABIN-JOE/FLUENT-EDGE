@@ -33,7 +33,7 @@ To get started with Fluent Edge, follow these steps:
     - On Windows:
 
     ```bash
-    venv\Scriptsctivate
+    venv\Scripts\activate
     ```
 
     - On macOS/Linux:
