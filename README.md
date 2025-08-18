@@ -217,5 +217,14 @@ Git configuration file that specifies how Git handles certain files in the repos
 ### .gitignore
 Specifies which files and directories Git should ignore. Common entries include `__pycache__/` and `venv/`.
 
-### License
-This project is licensed under the MIT License. Feel free to fork and customize, but credit is appreciated.
+
+## 📜 License
+
+This project is licensed under the **MIT License**. Feel free to fork and customize, but credit is appreciated.
+
+---
+
+## 🙌 Author
+
+**Babin Joe**  
+🔗 [Portfolio](https://babin-joe.vercel.app/) | [GitHub](https://github.com/BABIN-JOE) | [LinkedIn](https://www.linkedin.com/in/babin-joe/)
