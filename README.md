@@ -220,11 +220,14 @@ Specifies which files and directories Git should ignore. Common entries include 
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. Feel free to fork and customize, but credit is appreciated.
+This project is licensed under the **Apache License 2.0**.  
+You may use, modify, and distribute this software under the terms of the license.
+
+See the [LICENSE](LICENSE) file for full details.
 
 ---
 
 ## 🙌 Author
-
+git
 **Babin Joe**  
 🔗 [Portfolio](https://babin-joe.vercel.app/) | [GitHub](https://github.com/BABIN-JOE) | [LinkedIn](https://www.linkedin.com/in/babin-joe/)
